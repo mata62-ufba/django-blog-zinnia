@@ -1,0 +1,23 @@
+************* Module zinnia.models.author
+C: 27, 4: Missing class docstring (missing-docstring)
+C: 27, 4: Old-style class defined. (old-style-class)
+W: 27, 4: Class has no __init__ method (no-init)
+R: 27, 4: Too few public methods (0/2) (too-few-public-methods)
+C: 61, 4: Old-style class defined. (old-style-class)
+W: 61, 4: Class has no __init__ method (no-init)
+R: 61, 4: Too few public methods (0/2) (too-few-public-methods)
+************* Module zinnia.models.category
+E: 45,33: Instance of 'Category' has no 'entries' member (no-member)
+E: 53,11: Instance of 'Category' has no 'parent_id' member (no-member)
+C: 69, 4: Old-style class defined. (old-style-class)
+W: 69, 4: Class has no __init__ method (no-init)
+R: 69, 4: Too few public methods (0/2) (too-few-public-methods)
+C: 77, 4: Old-style class defined. (old-style-class)
+W: 77, 4: Class has no __init__ method (no-init)
+R: 77, 4: Too few public methods (0/2) (too-few-public-methods)
+************* Module zinnia.models.entry
+R:  6, 0: Too few public methods (0/2) (too-few-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 6.31/10 (previous run: 6.31/10, +0.00)
+
