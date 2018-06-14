@@ -461,7 +461,7 @@ if ( typeof define === 'function' && define.amd ) {
     /**
      * Alias of addListener
      */
-    proto.on = alias('addListener');
+    proto.on = alias("addListener");
 
     /**
      * Semi-alias of addListener. It will add a listener that will be
