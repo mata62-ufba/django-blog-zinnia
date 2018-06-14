@@ -3,14 +3,14 @@ from urllib.error import HTTPError
 from urllib.parse import urlsplit
 from xmlrpc.client import ServerProxy
 
-from bs4 import BeautifulSoup
-
 from django.contrib.contenttypes.models import ContentType
 from django.contrib.sites.models import Site
 from django.test import TestCase
 from django.test.utils import override_settings
 from django.utils import six
 from django.utils import timezone
+
+from bs4 import BeautifulSoup
 
 import django_comments as comments
 
